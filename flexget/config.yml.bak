@@ -1,0 +1,61 @@
+feeds:
+  castle:
+    rss: http://ezrss.it/search/index.php?show_name=castle&date=&quality=hdtv&release_group=&mode=rss
+    series:
+      - castle
+    download: ~/Downloads/
+  mentalist:
+    rss: http://ezrss.it/search/index.php?show_name=the+mentalist&date=&quality=hdtv&release_group=&mode=rss
+    series:
+      - the mentalist
+    download: ~/Downloads/
+  big_bang:
+    rss: http://ezrss.it/search/index.php?show_name=the+big+bang+theory&date=&quality=hdtv&release_group=&mode=rss
+    series:
+      - the big bang theory
+    download: ~/Downloads/
+  south_park:
+    rss: http://ezrss.it/search/index.php?show_name=south+park&date=&quality=hdtv&release_group=&mode=rss
+    series:
+      - south park
+    download: ~/Downloads/
+  how_i_met_your_mother:
+    rss: http://ezrss.it/search/index.php?show_name=how+i+met+your+mother&date=&quality=hdtv&release_group=&mode=rss
+    series:
+      - how i met your mother
+    download: ~/Downloads/
+  lietome:
+    rss: http://www.ezrss.it/search/index.php?simple&show_name=lie+to+me&mode=rss
+    series:
+      - lie to me
+    download: ~/Downloads/
+
+  #rlslog_dvdrips:
+    #rlslog: http://www.rlslog.net/category/movies/dvdrip/
+    #imdb:
+      #min_score: 6.1
+      #min_votes: 2000
+      #min_year: 2008
+      #reject_genres:
+        #- horror
+        #- documentary
+        #- musical
+        #- music
+        #- biography
+    #download: ~/Downloads/
+
+  tnt_village:
+    rss: http://www.tntvillage.scambioetico.org/index.php?act=rss&a=releases&cat=4&show=10
+    imdb:
+      min_score: 6.1
+      min_votes: 200
+      min_year: 1987
+    download: ~/Downloads/
+
+  #kickass:
+    #rss: http://www.kickasstorrents.com/search/dvdrip/?rss=1 
+    #imdb:
+      #min_score: 6.8
+      #min_votes: 2000
+      #min_year: 2009
+    #download: ~/Downloads/

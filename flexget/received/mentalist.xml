@@ -1,0 +1,109 @@
+
+
+<!DOCTYPE html
+        PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head><title>Hewlett-Packard Company Secure Logon</title></head>
+<body bgcolor="#ffffff" onload="document.forms.logonForm.username.focus(); document.forms.logonForm.javaworks.value = 1" scroll="auto">
+<center>
+
+		
+
+<form method="post" enctype="application/x-www-form-urlencoded" name="logoffForm">
+
+		
+
+<p><table cellspacing="0" cellpadding="0" border="0" width="500">
+<tr><td align="center" colspan="3"><a href="http://www.unipr.it"><img src="/locations/UNIPR/custom_logo_7_3.png" border="0" alt="HP"></a></td></tr>
+<tr><td colspan="3" height="5"><img src="/dot-clear.gif" border="0" width="1" height="5"></td></tr>
+<tr><td colspan="3"><img src="/dot-black.gif" border="0" width="100%" height="1"></td></tr>
+<tr><td colspan="3" height="5"><img src="/dot-clear.gif" border="0" width="1" height="5"></td></tr>
+<tr><td align="center"><font size="2" color="#000000" face="arial,helvetica,sans-serif">You are not logged on.</font><P></td></tr></table>
+
+		
+
+</form>
+
+		<font size="2" color="#000000" face="arial,helvetica,sans-serif"><H1>UNIPR WiFi<BR>
+Universit&agrave  degli Studi di Parma</H1>
+<P>
+<A HREF="http://wifi.unipr.it">
+Per informazioni consultare
+http://wifi.unipr.it</A>
+</P>
+
+<!--<br>&nbsp;
+<P>
+<b>ATTENZIONE</b>: a seguito scadenza, in data 19/11/2009 &egrave; stata aggiornata la Certification Authority che firma anche i certificati utilizzati per l'infrastruttura WiFi. Nuova C.A.: <a href="http://www.cce.unipr.it/CA/cce.cacert">http://www.cce.unipr.it/CA/cce.cacert</a>
+<br>
+<b>AGGIORNAMENTO 26/11/2009:</b> il certificato precedentemente messo a disposizione non veniva correttamente riconosciuto da tutte le piattaforme. Il problema &egrave; stato risolto:
+se non andato a buon fine precedentemente, ritentare ora il download del certificato (<a href="http://www.cce.unipr.it/CA/cce.cacert">medesimo link</a>)
+</P>-->
+
+<!--
+<br>&nbsp;
+<P>
+<u><b>*** AVVISO VIRUS ***</b></u> Sono stati segnalati virus su computer che si collegano alla rete WiFi dal plesso di <b>Geologia</b>. Si invitano gli utenti a controllare i propri computer con antivirus aggiornati.
+</P>
+-->
+
+<!--
+<br>&nbsp;
+<P>
+<B>*** ATTENZIONE! ***</B>: A causa dell'utilizzo della rete WiFi per il download tramite P2P di materiale coperto da diritto di autore, l'accesso a Internet dalla rete WiFi di <B>Ingegneria Scientifica / Centro S. Elisabetta</B> &egrave; sospeso per 24 ore. E' mantenuta la possibilit&agrave; di navigazione sulla rete interna dell'Ateneo.
+</P>
+-->
+
+
+
+<br>&nbsp;
+<P>
+<u>ORARI IN CUI E' RICONOSCIUTO L'INSERIMENTO DI CREDENZIALI:</u>
+<ul>
+<li><b>Studenti</b> e <b>ospiti temporanei</b>: da Luned&igrave; a Sabato, dalle 7:00 alle 20:00</li>
+<li>Altri (<b>Dipendenti</b>, <b>docenti</b>, <b>strutturati</b>, ...): da Luned&igrave; a Domenica, dalle 0:00 alle 23:59</li>
+</ul>
+</P>
+
+
+<br>&nbsp;
+<P>
+ATTENZIONE: si ricorda che lo scambio di materiale protetto da diritto di autore tramite software P2P &egrave; vietato. Per informazioni sulle condizioni d'uso: <A HREF="http://wifi.unipr.it/disclaimer.html">http://wifi.unipr.it/disclaimer.html</A>
+</P>
+<P>&nbsp;</P>
+<P>
+Per accedere inserire indirizzo e-mail accademico e relativa password
+</P>
+<BR></font>
+
+<form method="post" action="https://yin.unipr.it:443/logon" enctype="application/x-www-form-urlencoded" name="logonForm">
+
+			<INPUT name=query_string type=hidden value="http://ezrss.it/search/index.php?show_name=the+mentalist&date=&quality=hdtv&release_group=&mode=rss"><INPUT name=javaworks type=hidden value=0>
+<INPUT name=vernier_id type=hidden value="hp">
+<INPUT name=product_id type=hidden value="VNSS">
+<INPUT name=releast_id type=hidden value="1.0">
+<INPUT name=logon_status type=hidden value="0">
+<INPUT name=guest_allowed type=hidden value="0">
+<INPUT name=realm_required type=hidden value="0">
+<INPUT name=secret type=hidden value="e005610a04ca37d84c0855e3cb9386e08437c9b0f7b859d990fbce1c5040b5025c426b2e2ea5de98d45cbba32ab5d255">
+<INPUT name=verify_vernier type=hidden value="3ddf5b5c5adbec96ab5b4fa706b80a61">
+
+
+<font face="arial,helvetica,sans-serif"><table cellspacing="0" cellpadding="1" border="0" width="500" bgcolor="#666699"><tr><td><table cellspacing="0" cellpadding="5" border="0" width="100%"><tr><td align="center" bgcolor="#666699"><font size="4" color="#ffffff"><b>Registered Users</b></font></td></tr><tr><td align="center" bgcolor="#ffffff"><table cellspacing="0" cellpadding="2" border="0"><tr align="right"><td><font size="2">Username:</font></td><td><font size="2"><input type="text" name="username" size="15"></font></td></tr><tr align="right"><td><font size="2">Password:</font></td><td><font size="2"><input type="password" name="password" size="15"></font></td></tr></table></td></tr><tr><td align="center" bgcolor="#ffffff"><input name="logon_action" type="submit" value="Logon User"></td></tr></table></td></tr></table><p></font>
+
+			
+
+</form>
+
+			
+		<p>
+
+<font size="1" face="arial,helvetica,sans-serif">&nbsp;</font>
+
+</center>
+
+	    
+
+</body></html>
+
+    

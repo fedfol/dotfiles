@@ -1,0 +1,76 @@
+""""""
+"options not good looking for the terminal
+""""""
+set cursorline
+" Always switch to the current file directory
+set autochdir
+" Create undo files
+set undofile
+""""""
+
+set background=dark
+colorscheme solarized
+
+" window dimensions
+"set lines=34
+set columns=86
+
+" Font
+set gfn=Menlo\ for\ Powerline:h12
+" Disable toolbar in gui
+set guioptions-=T
+"set gfn=Monaco:h12
+"set gfn=Inconsolata:h14
+" Disable scrollbar
+set guioptions=aAce
+set linebreak
+
+"Map Command-T to CMD-T in MacVim
+if has("gui_macvim")
+    macmenu &File.New\ Tab key=<nop>
+    map <D-t> :CommandT<CR>
+endif
+
+" WriteRoom mode
+let g:writeroom = 0
+let g:transparency = &transparency
+function! WriteRoom()
+    if has("gui_running")
+        if g:writeroom == 0
+            let g:writeroom = 1
+            set gfn=Menlo\ for\ Powerline:h16
+            "set guifont=Cousine:h16
+            set columns=86
+            "set lines=50
+            set fuoptions=background:#00000000
+            set guioptions-=r
+            set fullscreen
+            set linebreak
+            set nocursorline
+            set nolist
+            set nonumber
+            set noshowmode
+            set linespace=2
+            set transparency=0
+            set laststatus=0
+            hi NonText guifg=bg
+        else
+            let g:writeroom = 0
+            set gfn=Menlo\ for\ Powerline:h12
+            set cursorline
+            set list
+            set nofullscreen
+            set nolinebreak
+            set number
+            set showmode
+            set linespace=0
+            set lines=50
+            set columns=86
+            let &transparency=g:transparency
+            set laststatus=2
+            hi clear
+        endif
+    endif
+endfunction
+
+nnoremap <F1> :call WriteRoom()<cr>

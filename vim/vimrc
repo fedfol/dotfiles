@@ -1,0 +1,155 @@
+" Begin .vimrc
+
+filetype off
+call pathogen#runtime_append_all_bundles()
+filetype plugin indent on
+
+syntax on
+
+" not vi compatible
+set nocompatible
+
+" Tab = 4 spaces
+set tabstop=8
+set shiftwidth=4 softtabstop=4
+set expandtab
+
+set encoding=utf-8
+set scrolloff=3
+set autoindent
+set smartindent
+set showmode
+set showcmd
+set hidden
+set wildmenu
+set wildmode=list:longest
+set visualbell
+set ttyfast
+set ruler
+set backspace=indent,eol,start
+set laststatus=2
+set number      "Show numbers
+
+"Avoid extra files in folders
+set undodir=~/.vim/trash/undo
+set directory=~/.vim/trash/swap
+" Make backup files
+set backup
+set backupdir=~/.vim/trash/backup
+
+" No error bells
+set noerrorbells
+set visualbell t_vb=
+
+set mouse=a
+
+" Change leader key to ,
+let mapleader = ","
+
+set ignorecase
+set smartcase
+set gdefault
+" Find as you type
+set incsearch
+set showmatch
+set hlsearch
+
+" <Leader>-space clear highlighting
+nnoremap <leader><space> :noh<cr>
+
+" no line numbers when viewing help
+au FileType helpfile set nonumber
+
+set wrap
+set textwidth=79
+set formatoptions=qrn1
+
+" Easier movements
+nnoremap j gj
+nnoremap k gk
+
+" Map ; to : for common typing errors
+nnoremap ; :
+" Tab and Shift-Tab to cycle buffers
+nnoremap <Tab> :bnext<CR>
+nnoremap <S-Tab> :bprevious<CR>
+nmap <SwipeLeft> :bN<CR>
+nmap <SwipeRight> :bn<CR>
+
+" default file compatibility
+set ffs=unix,mac,dos
+
+" Folding disabled
+set nofoldenable
+" Folding method
+set fdm=indent
+" Show fold column of width 1
+"set fdc=1
+
+" Completion on
+set ofu=syntaxcomplete#Complete
+
+" YankRing configuration
+let g:yankring_history_dir = '/Users/fedfol/.vim/trash'
+
+" Saving on lost focus
+au FocusLost * :wa
+
+" Default italian spell
+set spl=it
+
+" Spell check on in tex files
+au FileType tex set spl=it spell
+
+" Spell check on in md files
+au FileType markdown set spl=it spell
+
+" Open .tex files in 'tex' mode insteal of 'plaintex'
+let g:tex_flavor='latex'
+
+
+" Leader functionality
+
+" Reselect text just pasted with <Leader>-v
+nnoremap <leader>v V`]
+
+" <Leader>-w remap to change vertical split window
+nnoremap <leader>w <C-w>v<C-w>l
+
+" <C-hjkl> to move around split windows
+nnoremap <C-h> <C-w>h
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
+
+" <Leader>-W strips all trailing char from file
+nnoremap <leader>W :%s/\s\+$//<cr>:let @/=''<CR>
+
+" Emacs like end-beginning of line
+nnoremap <C-e> $
+nnoremap <C-a> ^
+
+" Remap jj to <ESC> in insert mode
+inoremap jj <ESC>
+
+" Colorscheme
+set background=dark
+colorscheme solarized
+
+" Powerline
+let g:Powerline_symbols='fancy'
+let g:Powerline_theme='skwp'
+let g:Powerline_colorscheme='skwp'
+
+" Python error check:
+" type :make to check for errors and move to the next error with :cnext
+autocmd BufRead *.py set makeprg=python\ -c\ \"import\ py_compile,sys;\ sys.stderr=sys.stdout;\ py_compile.compile(r'%')\"
+autocmd BufRead *.py set efm=%C\ %.%#,%A\ \ File\ \"%f\"\\,\ line\ %l%.%#,%Z%[%^\ ]%\\@=%m
+
+" When editing a python script <leader>r execute it
+autocmd BufRead *.py nmap <leader>r :!python %<CR>
+
+
+" GUI options in gvimrc
+
+" End .vimrc

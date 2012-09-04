@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE torrent PUBLIC "-//bitTorrent//DTD torrent 0.1//EN" "http://xmlns.ezrss.it/0.1/dtd/">
+<rss version="2.0">
+	<channel>
+		<title>ezRSS - Search Results</title>
+		<ttl>15</ttl>
+		<link>http://ezrss.it/search/index.php?show_name=Fringe&amp;date=&amp;quality=hdtv&amp;quality_exact=true&amp;release_group=&amp;mode=rss</link>
+		<image>
+			<title>ezRSS - Search Results</title>
+			<url>http://ezrss.it/images/ezrssit.png</url>
+			<link>http://ezrss.it/search/index.php?show_name=Fringe&amp;date=&amp;quality=hdtv&amp;quality_exact=true&amp;release_group=&amp;mode=rss</link>
+		</image>
+		<description>Custom RSS feed based off search filters.</description>
+		<item>
+			<title><![CDATA[Fringe 4x9 [HDTV - LOL]]]></title>
+			<link>http://torrents.thepiratebay.org/6972184/Fringe_S04E09_HDTV_XviD-LOL.6972184.TPB.torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 20 Jan 2012 23:13:47 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 4; Episode: 9]]></description>
+			<enclosure url="http://torrents.thepiratebay.org/6972184/Fringe_S04E09_HDTV_XviD-LOL.6972184.TPB.torrent" length="366834262" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/32601/</comments>
+			<guid>http://eztv.it/ep/32601/fringe-s04e09-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S04E09.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366834262</contentLength>
+				<infoHash>1E5D20F1525E9E48B70D29186F94ED18493043EA</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:DZOSB4KSL2PERNYNFEMG7FHNDBETAQ7K&dn=Fringe.S04E09.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 4x8 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S04E08.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 13 Jan 2012 21:54:09 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 4; Episode: 8]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S04E08.HDTV.XviD-LOL.[eztv].torrent" length="366853042" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/32407/</comments>
+			<guid>http://eztv.it/ep/32407/fringe-s04e08-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S04E08.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366853042</contentLength>
+				<infoHash>2F3B8830156A9489E7D039379EB0102B8C8437C9</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:F45YQMAVNKKITZ6QHE3Z5MAQFOGIIN6J&dn=Fringe.S04E08.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 4x6 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.4x06.(HDTV-LOL)[VTV].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 11 Nov 2011 21:24:01 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 4; Episode: 6]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.4x06.(HDTV-LOL)[VTV].torrent" length="366777896" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/31029/</comments>
+			<guid>http://eztv.it/ep/31029/fringe-4x06-hdtv-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.4x06.(HDTV-LOL)[VTV].torrent]]></fileName>
+				<contentLength>366777896</contentLength>
+				<infoHash>2D19A3C4335EAE11526F265B0B99525725577154</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:2D19A3C4335EAE11526F265B0B99525725577154&dn=Fringe.4x06.(HDTV-LOL)]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 4x6 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S04E06.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 11 Nov 2011 21:07:17 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 4; Episode: 6]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S04E06.HDTV.XviD-LOL.[eztv].torrent" length="366777896" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/31033/</comments>
+			<guid>http://eztv.it/ep/31033/fringe-s04e06-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S04E06.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366777896</contentLength>
+				<infoHash>B465813E3D493467AE16C7831C1050AE0BF1B5A2</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:WRSYCPR5JE2GPLQWY6BRYECQVYF7DNNC&dn=Fringe.S04E06.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 4x5 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S04E05.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 04 Nov 2011 20:38:28 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 4; Episode: 5]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S04E05.HDTV.XviD-LOL.[eztv].torrent" length="366419544" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/30812/</comments>
+			<guid>http://eztv.it/ep/30812/fringe-s04e05-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S04E05.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366419544</contentLength>
+				<infoHash>246AC1199ED989922250EBC75E86F39CE93CDA5E</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:ERVMCGM63GEZEISQ5PDV5BXTTTUTZWS6&dn=Fringe.S04E05.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 4x4 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S04E04.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 14 Oct 2011 19:54:51 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 4; Episode: 4]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S04E04.HDTV.XviD-LOL.[eztv].torrent" length="366582330" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/30238/</comments>
+			<guid>http://eztv.it/ep/30238/fringe-s04e04-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S04E04.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366582330</contentLength>
+				<infoHash>B1F009864A3876A1EA2F9366C8AF5AAF11D5AA1D</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:WHYATBSKHB3KD2RPSNTMRL22V4I5LKQ5&dn=Fringe.S04E04.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 4x3 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S04E03.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 07 Oct 2011 20:17:12 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 4; Episode: 3]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S04E03.HDTV.XviD-LOL.[eztv].torrent" length="366876694" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/30045/</comments>
+			<guid>http://eztv.it/ep/30045/fringe-s04e03-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S04E03.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366876694</contentLength>
+				<infoHash>33294FF63B82DA0A9C091C18B7A969FFDD0AAE04</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:GMUU75R3QLNAVHAJDQMLPKLJ77OQVLQE&dn=Fringe.S04E03.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 4x2 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.4x02.(HDTV-LOL)[VTV].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 30 Sep 2011 20:22:29 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 4; Episode: 2]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.4x02.(HDTV-LOL)[VTV].torrent" length="366411770" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/29847/</comments>
+			<guid>http://eztv.it/ep/29847/fringe-4x02-hdtv-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.4x02.(HDTV-LOL)[VTV].torrent]]></fileName>
+				<contentLength>366411770</contentLength>
+				<infoHash>4376C63412F43907D3A38E89E43926BA5FF53D52</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:4376C63412F43907D3A38E89E43926BA5FF53D52&dn=Fringe.4x02.(HDTV-LOL)]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 4x1 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S04E01.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 23 Sep 2011 20:17:29 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 4; Episode: 1]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S04E01.HDTV.XviD-LOL.[eztv].torrent" length="366587122" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/29687/</comments>
+			<guid>http://eztv.it/ep/29687/fringe-s04e01-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S04E01.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366587122</contentLength>
+				<infoHash>EE3E38326DA60999DF986DDBB29D024FFC2B1883</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:5Y7DQMTNUYEZTX4YNXN3FHICJ76CWGED&dn=Fringe.S04E01.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x22 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E22.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 06 May 2011 20:34:35 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 22]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E22.HDTV.XviD-LOL.[eztv].torrent" length="365728994" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/27258/</comments>
+			<guid>http://eztv.it/ep/27258/fringe-s03e22-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E22.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>365728994</contentLength>
+				<infoHash>4E1B034EAB9C28680C593EEFD536B33C12AD381A</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:JYNQGTVLTQUGQDCZH3X5KNVTHQJK2OA2&dn=Fringe.S03E22.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x21 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E21.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 29 Apr 2011 20:33:14 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 21]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E21.HDTV.XviD-LOL.[eztv].torrent" length="366497792" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/27093/</comments>
+			<guid>http://eztv.it/ep/27093/fringe-s03e21-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E21.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366497792</contentLength>
+				<infoHash>18267C27F99B0FC5BE4F5F6EDD7FE696554D7109</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:DATHYJ7ZTMH4LPSPL5XN277GSZKU24IJ&dn=Fringe.S03E21.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x18 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E18.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 25 Mar 2011 20:14:42 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 18]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E18.HDTV.XviD-LOL.[eztv].torrent" length="366721964" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/26508/</comments>
+			<guid>http://eztv.it/ep/26508/fringe-s03e18-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E18.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366721964</contentLength>
+				<infoHash>2FEA6CB5E735AAB8BB0E887CF17E07A38DFD8228</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:F7VGZNPHGWVLROYORB6PC7QHUOG73ARI&dn=Fringe.S03E18.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x17 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E17.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 18 Mar 2011 20:38:47 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 17]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E17.HDTV.XviD-LOL.[eztv].torrent" length="366313472" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/26419/</comments>
+			<guid>http://eztv.it/ep/26419/fringe-s03e17-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E17.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366313472</contentLength>
+				<infoHash>443D97C4AD2F8787665BD01CBEADAA65EE30BCB4</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:IQ6ZPRFNF6DYOZS32AOL5LNKMXXDBPFU&dn=Fringe.S03E17.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x16 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.3x16.(HDTV-LOL)[VTV].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Tue, 15 Mar 2011 08:40:37 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 16]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.3x16.(HDTV-LOL)[VTV].torrent" length="364589126" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/26368/</comments>
+			<guid>http://eztv.it/ep/26368/fringe-3x16-hdtv-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.3x16.(HDTV-LOL)[VTV].torrent]]></fileName>
+				<contentLength>364589126</contentLength>
+				<infoHash>A0BDDBFEC7C80C015CCECE47035C614CF23DD70E</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:A0BDDBFEC7C80C015CCECE47035C614CF23DD70E&dn=Fringe.3x16.(HDTV-LOL)]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x16 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E16.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category><![CDATA[TV Show]]></category>
+			<pubDate>Fri, 11 Mar 2011 21:53:00 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 16]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E16.HDTV.XviD-LOL.[eztv].torrent" length="364589126" type="application/x-bittorrent" />
+			
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E16.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>364589126</contentLength>
+				<infoHash>EAA7FCD5AC2B78784A8A7457EEFA3F02989B1796</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:5KT7ZVNMFN4HQSUKORL656R7AKMJWF4W&dn=Fringe.3x16.(HDTV-LOL)]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x15 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E15.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 25 Feb 2011 23:20:40 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 15]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E15.HDTV.XviD-LOL.[eztv].torrent" length="366608384" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/26116/</comments>
+			<guid>http://eztv.it/ep/26116/fringe-s03e15-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E15.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366608384</contentLength>
+				<infoHash>0A6344B0E4739D6AEE50378CD4AA24A9F40317E3</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:BJRUJMHEOOOWV3SQG6GNJKREVH2AGF7D&dn=Fringe.S03E15.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x14 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E14.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 18 Feb 2011 22:21:59 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 14]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E14.HDTV.XviD-LOL.[eztv].torrent" length="366544896" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/25919/</comments>
+			<guid>http://eztv.it/ep/25919/fringe-s03e14-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E14.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366544896</contentLength>
+				<infoHash>510967441F722B7ED58DD1D4F45FB5249DDA1D92</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:KEEWORA7OIVX5VMN2HKPIX5VESO5UHMS&dn=Fringe.S03E14.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x13 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E13.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 11 Feb 2011 23:41:44 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 13]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E13.HDTV.XviD-LOL.[eztv].torrent" length="366788970" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/25726/</comments>
+			<guid>http://eztv.it/ep/25726/fringe-s03e13-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E13.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366788970</contentLength>
+				<infoHash>9E70C33477B0B93B949365997C621E4DE79801C2</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:TZYMGNDXWC4TXFETMWMXYYQ6JXTZQAOC&dn=Fringe.S03E13.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x12 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E12.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 04 Feb 2011 21:20:04 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 12]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E12.HDTV.XviD-LOL.[eztv].torrent" length="366749486" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/25524/</comments>
+			<guid>http://eztv.it/ep/25524/fringe-s03e12-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E12.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366749486</contentLength>
+				<infoHash>13B196969E9B8A3B52A4E50CE1B3C00AA1D88571</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:COYZNFU6TOFDWUVE4UGODM6ABKQ5RBLR&dn=Fringe.S03E12.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x11 [HDTV - 2HD]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E11.HDTV.XviD-2HD.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 28 Jan 2011 21:30:56 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 11]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E11.HDTV.XviD-2HD.[eztv].torrent" length="366204274" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/25376/</comments>
+			<guid>http://eztv.it/ep/25376/fringe-s03e11-hdtv-xvid-2hd/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E11.HDTV.XviD-2HD.[eztv].torrent]]></fileName>
+				<contentLength>366204274</contentLength>
+				<infoHash>1C16B96011A35C1DBAF3E2F2BA46680086211ADC</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:DQLLSYARUNOB3OXT4LZLURTIACDCCGW4&dn=Fringe.S03E11.HDTV.XviD-2HD]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x10 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E10.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Fri, 21 Jan 2011 21:19:31 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 10]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E10.HDTV.XviD-LOL.[eztv].torrent" length="366780416" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/25244/</comments>
+			<guid>http://eztv.it/ep/25244/fringe-s03e10-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E10.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366780416</contentLength>
+				<infoHash>5FAAB23A774A5386F4F5C76DCF28B9EE4B5ACE55</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:L6VLEOTXJJJYN5HVY5W46KFZ5ZFVVTSV&dn=Fringe.S03E10.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x9 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E09.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Thu, 09 Dec 2010 22:11:34 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 9]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E09.HDTV.XviD-LOL.[eztv].torrent" length="366772390" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/24520/</comments>
+			<guid>http://eztv.it/ep/24520/fringe-s03e09-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E09.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366772390</contentLength>
+				<infoHash></infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:&dn=Fringe.S03E09.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x8 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E08.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Thu, 02 Dec 2010 22:04:54 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 8]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E08.HDTV.XviD-LOL.[eztv].torrent" length="366277946" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/24362/</comments>
+			<guid>http://eztv.it/ep/24362/fringe-s03e08-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E08.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366277946</contentLength>
+				<infoHash></infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:&dn=Fringe.S03E08.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x7 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E07.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Thu, 18 Nov 2010 21:22:38 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 7]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E07.HDTV.XviD-LOL.[eztv].torrent" length="366769174" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/24100/</comments>
+			<guid>http://eztv.it/ep/24100/fringe-s03e07-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E07.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366769174</contentLength>
+				<infoHash></infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:&dn=Fringe.S03E07.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x6 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E06.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Thu, 11 Nov 2010 21:09:36 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 6]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E06.HDTV.XviD-LOL.[eztv].torrent" length="366767354" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/23918/</comments>
+			<guid>http://eztv.it/ep/23918/fringe-s03e06-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E06.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366767354</contentLength>
+				<infoHash></infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:&dn=Fringe.S03E06.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x5 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E05.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Thu, 04 Nov 2010 20:17:50 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 5]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E05.HDTV.XviD-LOL.[eztv].torrent" length="366287048" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/23721/</comments>
+			<guid>http://eztv.it/ep/23721/fringe-s03e05-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E05.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366287048</contentLength>
+				<infoHash></infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:&dn=Fringe.S03E05.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x4 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E04.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Thu, 14 Oct 2010 20:38:59 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 4]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E04.HDTV.XviD-LOL.[eztv].torrent" length="366768982" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/23230/</comments>
+			<guid>http://eztv.it/ep/23230/fringe-s03e04-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E04.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366768982</contentLength>
+				<infoHash></infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:&dn=Fringe.S03E04.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x3 [HDTV - LOL]]]></title>
+			<link>http://www.kickasstorrents.com/torrents/fringe-s03e03-hdtv-xvid-lol-t4529228/</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Thu, 07 Oct 2010 20:18:45 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 3]]></description>
+			<enclosure url="http://www.kickasstorrents.com/torrents/fringe-s03e03-hdtv-xvid-lol-t4529228/" length="366754342" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/23027/</comments>
+			<guid>http://eztv.it/ep/23027/fringe-s03e03-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E03.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366754342</contentLength>
+				<infoHash></infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:&dn=Fringe.S03E03.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 3x1 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S03E01.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Thu, 23 Sep 2010 20:37:31 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 3; Episode: 1]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S03E01.HDTV.XviD-LOL.[eztv].torrent" length="366761274" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/22631/</comments>
+			<guid>http://eztv.it/ep/22631/fringe-s03e01-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S03E01.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366761274</contentLength>
+				<infoHash></infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:&dn=Fringe.S03E01.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fringe 2x23 [HDTV - LOL]]]></title>
+			<link>http://torrent.zoink.it/Fringe.S02E23.HDTV.XviD-LOL.[eztv].torrent</link>
+			<category domain="http://eztv.it/shows/101/fringe/"><![CDATA[TV Show / Fringe]]></category>
+			<pubDate>Thu, 20 May 2010 20:20:31 -0500</pubDate>
+			<description><![CDATA[Show Name: Fringe; Episode Title: N/A; Season: 2; Episode: 23]]></description>
+			<enclosure url="http://torrent.zoink.it/Fringe.S02E23.HDTV.XviD-LOL.[eztv].torrent" length="366762392" type="application/x-bittorrent" />
+			<comments>http://eztv.it/forum/discuss/20657/</comments>
+			<guid>http://eztv.it/ep/20657/fringe-s02e23-hdtv-xvid-lol/</guid>
+			<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+				<fileName><![CDATA[Fringe.S02E23.HDTV.XviD-LOL.[eztv].torrent]]></fileName>
+				<contentLength>366762392</contentLength>
+				<infoHash></infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:&dn=Fringe.S02E23.HDTV.XviD-LOL]]></magnetURI>
+			</torrent>
+		</item>
+	</channel>
+</rss>

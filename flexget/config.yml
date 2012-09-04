@@ -1,0 +1,136 @@
+presets:
+  global:
+    interval: 1 hours
+  tv:
+    download: ~/Downloads/
+    exists_series:
+      - ~/Movies/
+      - ~/Downloads/
+    series:
+      - castle
+      #- the mentalist
+      #- how i met your mother
+      #- fringe
+      - south park
+      - white collar
+      - game of thrones
+      - sherlock
+      - anger management
+      #- workaholics
+      #- burn notice
+
+  en-movies:
+    download: ~/Downloads/
+    exists_movie:
+      - ~/Movies/
+      - ~/Downloads/
+    imdb:
+      min_score: 7.1
+      min_votes: 6000
+      min_year: 2007
+      reject_genres:
+        - horror
+        - documentary
+        - musical
+        - music
+        - biography
+    quality: dvdrip+ <=720p
+    content_filter:
+      reject:
+        - '*.rar'
+    regexp:
+      reject:
+        - \bTS\b: {from: title}
+        - \bR5\b: {from: title}
+        - \bMD\b: {from: title}
+        - \bNL\b: {from: title}
+    seen_movies: loose
+
+  it-movies:
+    download: ~/Downloads/
+    exists_movie:
+      - ~/Movies/
+      - ~/Downloads/
+    imdb:
+      min_score: 7.1
+      min_votes: 1000
+      min_year: 2005
+      reject_genres:
+        - horror
+        - documentary
+        - musical
+        - music
+        - biography
+    content_size:
+      max: 3000
+      strict: no
+    seen_movies: loose
+
+
+tasks:
+  seed_watchlist:
+    priority: 1
+    interval: 72 hours
+    imdb_list:
+      list: watchlist
+      username: fedfol@gmail.com
+      password: f3df0lf3df0l
+    accept_all: yes
+    queue_movies:
+      quality: dvdrip+ <=720p
+      force: no
+
+  ezrss:
+    rss: http://ezrss.it/feed/
+    preset: tv
+
+  showrss:
+    rss: http://showrss.karmorra.info/feeds/all.rss
+    preset: tv
+
+  tnt_village:
+    rss: http://www.tntvillage.scambioetico.org/index.php?act=rss&a=releases&cat=4&show=10
+    preset: it-movies
+    movie_queue: yes
+
+  torlock:
+    rss: http://www.torlock.com/movies/rss.xml
+    preset: en-movies
+    movie_queue: yes
+
+  #demonoid.me:
+    #rss: http://static.demonoid.me/rss/1.xml
+    #preset: en-movies
+    #movie_queue: yes
+
+  #torrentz:
+    #rss: http://torrentz.eu/feed?q=dvdrip
+    #preset: en-movies
+    #movie_queue: yes
+
+  #kickass:
+    #rss: http://www.kat.ph/movies/?rss=1
+    #preset: en-movies
+    #movie_queue: yes
+
+  # This feed discovers movies from Rotten Tomatoes and searches for them
+  Discovered_Movies:
+    priority: 14
+    interval: 72 hours
+    preset:
+      - en-movies
+    disable_plugin: inputs
+    discover:
+      what:
+        - rottentomatoes_list:
+            dvds:
+              - top_rentals
+              - new_releases
+      from:
+        - flexget_archive: yes
+        - newtorrents
+        - piratebay
+        - torrentz
+      type: movies
+    set:
+      label: movies-discovered
